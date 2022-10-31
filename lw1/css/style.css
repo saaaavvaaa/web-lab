@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500&display=swap');
+.body{
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+
+color: black;
+
+}
+.nav{
+  width: 76.56vw;
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Inter';
+  margin-right: 11.7%;
+  margin-left: 11.7%;
+}
+.nav-logo{
+margin-top: 2.07%;
+margin-bottom: 2.07%;
+font-weight: 700;
+font-size: 1.88vw;
+text-align: left;
+}
+.link{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 55.46%;
+  margin-top: 2.37%;
+  margin-bottom: 2.37%;
+  font-family: Inter;
+  font-size: 1.25vw;
+  text-align: left;
+  text-decoration: underline #000000;
+  margin-right: 14.7%;
+}
+
+
+.home{
+  width: 76.56vw;
+  display: flex;
+  align-items: center;
+  font-family: 'Inter';
+  margin-right: 11.7%;
+  margin-left: 11.7%;
+ 
+}
+.home-head{
+font-size: 35vw;
+font-size: 4vw;
+font-weight: 700;
+text-align: left;
+margin-top: 7.26%;
+margin-bottom: 6.6%;
+}
+.home-text{
+  color: #BEBEBE;
+  line-height: 144.5%;
+  font-size: 1.7vw;
+}
+.home-img{
+width: 37.19vw;
+height: 64.6%;
+margin-top: 5.1%;
+margin-left: 4.29%;
+}
+.main{  
+  align-items: center;
+  width: 76.56vw;
+}
+.main-content{
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Inter';
+  
+
+}
+.main-block{
+  margin-right: 11.7%;
+  margin-left: 11.7%;
+  display: flex;
+  
+}
+.main-text{
+text-align: center;
+font-size: 2.5vw;
+font-weight: 700;
+margin-bottom: 6%;
+margin-top: 8.57%;
+}
+
+
+.main-img{
+  margin-left: 2.55%;
+}
+.main-img-text1{
+  font-family: Inter;
+  font-size: 1.25vw;
+  font-weight: 700;
+  line-height: 19px;
+  text-align: left;
+  margin-top: 4.74%;
+  margin-bottom: 3.38%;
+}
+.main-img-text2{
+  font-family: Inter;
+font-size: 1.09vw;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+color: #BEBEBE;
+
+}
+.down{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: #f7fafc;
+  margin-right: 11.7%;
+  margin-left: 11.7%;
+  margin-top:4.3% ;
+  width: 76.56vw;
+   
+  
+}
+.down-block{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+  width: 43.83vw;
+}
+
+.down-text{
+ 
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.45vw;
+}
+
+.down-text-logo{
+  margin-top: 8.9%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 3.2vw;
+line-height: 140%;
+margin-bottom: 6.2%;
+margin-right: 10.55vw;
+
+
+
+}
+.down-text-non{
+  margin-top: 6.2%;
+  margin-bottom: 8.5%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 1.5vw;
+  font-weight: 400;
+  line-height: 140%;
+  color: #BEBEBE;
+  margin-right: 9.77vw;
+
+
+}
+
+.down-form{
+  margin-left: 4.45vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+
+}
+.email{
+  color: #BEBEBE;
+  
+}
+.down-img{
+  width: 32.73vw;
+}
+.email{
+  width: 22vw;
+  height: 5vw;
+  font-family: 'Inter';
+  font-size: 1.5vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+.btn{
+  height: 5vw;
+  width: 12.5vw;
+  border-radius: 2px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5vw;
+  color:#FFFFFF;
+  margin-left: 1.17vw;
+
+  
+}
+
+.footer-nav{
+  width: 76.56vw;
+  margin-right: 11.7%;
+  margin-left: 11.7%;
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-between;
+}
+.end{
+  margin-top: 5.27vw;
+  margin-bottom: 3.16vw;
+  font-family:  'Inter';
+font-weight: 700;
+font-size: 1.88vw;
+font-weight: 107px;
+text-align: left;
+}
+.end-end{
+  margin-top: 5.45vw;
+  margin-bottom: 3.34vw;
+  font-family:  'Inter';
+  font-size: 1.25vw;
+  font-weight: 400;
+  text-align: left;
+  color: #BEBEBE;
+}
