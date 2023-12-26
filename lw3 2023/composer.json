@@ -1,0 +1,13 @@
+{
+    "name": "your/vendor-name",
+    "description": "Description of your library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Your\\Namespace\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^0.12"
+    }
+}
